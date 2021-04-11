@@ -1,2 +1,5 @@
 # OCRapi
-This helps requce cost and time by reading the text from image ang output in editable format
+You could deploy this api on a server and get the output on any device with internet, could also work locally
+You send a post request to the api and get a json response on any device.
+the movive was to make OCR platform independent
+uses Tesseract OCR
