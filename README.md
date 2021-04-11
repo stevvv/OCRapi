@@ -9,6 +9,6 @@ in file pass path to your own image
 
 multilingual : English and Hindi for now
 
-stevvv/screentext works with this api
+stevvv/screen2text works with this api
 
 
