@@ -7,4 +7,8 @@ could be deployed on heroku \n
 you could try post command : curl -F "file=@/home/steven/Projects/API/ocr.jpg" https://socr.herokuapp.com/eng
 in file pass path to your own image
 
+multilingual : English and Hindi for now
+
+stevvv/screentext works with this api
+
 
